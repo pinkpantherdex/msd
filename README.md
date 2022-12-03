@@ -1,4 +1,4 @@
-# MMF Swap SDK
+# Pink Panther Dex SDK
 
 Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk/commit/a88048e9c4198a5bdaea00883ca00c8c8e582605).
 
@@ -11,7 +11,7 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 Move into the mmf-swap-sdk working directory
 
 ```sh
-cd packages/mmf-swap-sdk/
+cd packages/pink-dex-sdk/
 ```
 
 Install dependencies
