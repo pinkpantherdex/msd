@@ -1,13 +1,20 @@
 {
-  "name": "mmfsdk",
+  "name": "pinkdesksdk",
   "license": "MIT",
-  "version": "2.4.0",
-  "description": "🛠 An SDK for building applications on top of MMF.",
+  "version": "1.1.0",
+  "description": "🛠 An SDK for building applications on top of PINKDEXnpm login.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "files": [
+  "private": true,
+  "files":  [
     "dist"
-  ],
+],
+"repository": "https://github.com/pinkpantherdex/msd",
+"keywords": [
+  "pinkpantherdex",
+  "ethereum",
+  "cronos"
+],
   "module": "dist/sdk.esm.js",
   "scripts": {
     "lint": "tsdx lint src test",
